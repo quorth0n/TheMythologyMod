@@ -1,0 +1,22 @@
+[
+	{
+	"modid": "TheMythologyMod",
+	"name": "The Mythology Mod",
+	"description": "Egyptian Gods? Greek Gods? In Minecraft? No Way!",
+	"version": "0.1",
+	"mcversion": "1.6.2",
+	"url": "",
+	"updateUrl": "",
+	"authors": [
+	"Mulletfingers999",
+	"Vulcan",
+	],
+	"credits": "Idea and coding by Mulletfingers999, textures by Vulcan",
+	"logoFile": "",
+	"screenshots": [],
+	"parent": "",
+	"dependencies": [
+		"mod_MinecraftForge"
+  	} 	]
+ ]
+	
